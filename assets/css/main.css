@@ -3041,7 +3041,10 @@ body.is-loading #header:after {
     padding: 0;
 }
 
-
+#three .image.fit img{
+    height: 240px;
+    width: 368px;
+}
 /* XLarge */
 
 @media screen and (max-width: 1680px) {
