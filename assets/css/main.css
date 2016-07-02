@@ -2309,6 +2309,9 @@ ul.major-icons li {
     text-align: center;
 }
 
+ul.major-icons li p{
+    padding-top: 2.5rem;
+}
 ul.major-icons li .icon {
     -moz-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
