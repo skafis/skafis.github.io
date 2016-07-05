@@ -2620,6 +2620,9 @@ button:disabled,
     background: #fff;
     text-align: center;
 }
+.main.style1 p{
+    font-size: 1.5rem;
+}
 .main.style2 {
     background-color: #333;
     color: rgba(255, 255, 255, 0.75);
